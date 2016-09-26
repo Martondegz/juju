@@ -1,0 +1,96 @@
+.cover{
+	background-size: cover;
+	position: relative;
+	bottom:0px;
+	right: 4px;
+
+}
+#logo{
+	text-align: center;
+	position: relative;
+	bottom:550px;
+}
+#slogan{
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+	font-size: 40px;
+	color: #fff
+}
+.row{
+	display: inline;
+	width:100%;
+	text-align: justify;
+	margin:0px;
+	padding:0px;
+
+}
+.medium-3{
+	position: relative;
+	bottom: 480px;
+	margin:0px;
+}
+.intro-titles{
+	color:#fff;
+	position: relative;
+	top: 120px;
+	text-align: center;
+	font-style: italic;
+	font-size: 35px
+}
+#wine{
+background: linear-gradient()
+}
+#happyhour{
+	font-family: 'PT Sans', sans-serif;
+	padding-top: 50px;
+	text-align: center;
+	font-size: 25px;
+	background-color: #c1c3bb;
+	position: relative;
+	top:55px;
+
+}
+#partytime{
+	font-family: 'PT Sans', sans-serif;
+	padding-top: 60px;
+	text-align: center;
+	font-size: 25px;
+	color:#fff;
+	background-color: #fe4c06;
+	position:relative;
+	top:49px;
+}
+.intro{
+position: relative;
+bottom: 350px;
+}
+.frame{
+-moz-box-shadow: -14px -8px 30px #000000;
+-webkit-box-shadow: -14px -8px 30px #000000;
+box-shadow: -14px -8px 30px #000000;
+border: 1px solid #000;
+padding-left: 35px;
+}
+#top{
+	display: block;
+	padding-left: 50px;
+}
+#bottom{
+	display:block;
+	padding-left: 50px;
+}
+.hype{
+	padding-right: 50px;
+	display: block;
+	font-size: 13px;
+	font-family: 'Yatra One', cursive;
+}
+.hype h3{
+	font-size: 30px;
+	font-family: 'PT Sans', sans-serif;
+
+}
+.hype h5{
+	font-size: 30px;
+	font-family: 'PT Sans', sans-serif;
+}
